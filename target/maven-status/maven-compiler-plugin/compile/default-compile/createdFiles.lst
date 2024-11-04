@@ -1,0 +1,10 @@
+cv/rodolfo/curriculum_rodolfo_parada/modelo/Formacion.class
+cv/rodolfo/curriculum_rodolfo_parada/servicio/CurriculumServicio.class
+cv/rodolfo/curriculum_rodolfo_parada/servicio/ICurriculumServicio.class
+cv/rodolfo/curriculum_rodolfo_parada/CurriculumRodolfoParadaApplication.class
+cv/rodolfo/curriculum_rodolfo_parada/modelo/Experiencia.class
+cv/rodolfo/curriculum_rodolfo_parada/modelo/Proyectos.class
+cv/rodolfo/curriculum_rodolfo_parada/controlador/CurriculumControlador.class
+cv/rodolfo/curriculum_rodolfo_parada/repositorio/CurriculumRepositorio.class
+cv/rodolfo/curriculum_rodolfo_parada/modelo/FormularioContacto.class
+cv/rodolfo/curriculum_rodolfo_parada/modelo/Curriculum.class

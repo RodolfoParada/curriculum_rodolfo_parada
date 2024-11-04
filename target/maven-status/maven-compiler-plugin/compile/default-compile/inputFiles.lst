@@ -1,0 +1,10 @@
+/home/rodolfo/IdeaProjects/java/curriculum_rodolfo_parada/src/main/java/cv/rodolfo/curriculum_rodolfo_parada/CurriculumRodolfoParadaApplication.java
+/home/rodolfo/IdeaProjects/java/curriculum_rodolfo_parada/src/main/java/cv/rodolfo/curriculum_rodolfo_parada/controlador/CurriculumControlador.java
+/home/rodolfo/IdeaProjects/java/curriculum_rodolfo_parada/src/main/java/cv/rodolfo/curriculum_rodolfo_parada/modelo/Curriculum.java
+/home/rodolfo/IdeaProjects/java/curriculum_rodolfo_parada/src/main/java/cv/rodolfo/curriculum_rodolfo_parada/modelo/Experiencia.java
+/home/rodolfo/IdeaProjects/java/curriculum_rodolfo_parada/src/main/java/cv/rodolfo/curriculum_rodolfo_parada/modelo/Formacion.java
+/home/rodolfo/IdeaProjects/java/curriculum_rodolfo_parada/src/main/java/cv/rodolfo/curriculum_rodolfo_parada/modelo/FormularioContacto.java
+/home/rodolfo/IdeaProjects/java/curriculum_rodolfo_parada/src/main/java/cv/rodolfo/curriculum_rodolfo_parada/modelo/Proyectos.java
+/home/rodolfo/IdeaProjects/java/curriculum_rodolfo_parada/src/main/java/cv/rodolfo/curriculum_rodolfo_parada/repositorio/CurriculumRepositorio.java
+/home/rodolfo/IdeaProjects/java/curriculum_rodolfo_parada/src/main/java/cv/rodolfo/curriculum_rodolfo_parada/servicio/CurriculumServicio.java
+/home/rodolfo/IdeaProjects/java/curriculum_rodolfo_parada/src/main/java/cv/rodolfo/curriculum_rodolfo_parada/servicio/ICurriculumServicio.java
