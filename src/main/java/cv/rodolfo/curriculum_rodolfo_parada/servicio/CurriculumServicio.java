@@ -148,7 +148,7 @@ public class CurriculumServicio implements ICurriculumServicio{
             Experiencia exp3 = new Experiencia(
                     "Ago 2020 - Dic 2021",
                     "Castillo gráfico ltda",
-                    "Jefe de Proyectos",
+                    "Gerente General",
                     Arrays.asList(
                                             "➢ Desarrollé e implementé un Plan Comercial integral,\n" +
                                             " enfocándome en estrategias que resaltaran las ventajas\n" +
@@ -164,7 +164,7 @@ public class CurriculumServicio implements ICurriculumServicio{
 
 
                     ),
-                    "https://media.licdn.com/dms/image/v2/C4D03AQHHCd3RY9gX7Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517883177324?e=1733356800&v=beta&t=vQHGJYql_RZFE4_pPthu9EXH3l87YyuGzLzTCxBFhNc"
+                    "https://media.licdn.com/dms/image/v2/C4D0BAQHsSq05HUmkWA/company-logo_200_200/company-logo_200_200/0/1630574200572?e=1743033600&v=beta&t=G74ST9QsNayHxzm-GghOUkICgNil8vj7Bqwg8ytuFfA"
             );
 
             // Crear una lista de experiencias
