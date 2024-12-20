@@ -146,7 +146,7 @@ public class CurriculumServicio implements ICurriculumServicio{
             );
 
             Experiencia exp3 = new Experiencia(
-                    "Ago 2020 - Dic 2021",
+                    "Sep 2016 - Feb 2020",
                     "Castillo gráfico ltda",
                     "Gerente General",
                     Arrays.asList(
